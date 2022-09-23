@@ -1,0 +1,47 @@
+  *, *::before, *::after {
+    box-sizing:border-box
+
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+    background-color: #2f303a;
+    font-family: Poppins, sans-serif;
+    font-size: 1.2rem;
+    color: white; 
+  }
+
+
+  .name{
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    margin: .5rem;
+    padding-left: 2rem;
+  }
+
+  .main-nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .main-nav a{
+    color: inherit;
+    text-decoration: none;
+    padding: 1rem;
+  }
+
+  .main-nav a:hover{
+    color: #adadad;
+  }
+
+  .main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 140px;
+    padding-right: 1rem;
+  }
