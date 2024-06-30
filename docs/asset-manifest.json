@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69644a02.css",
+    "main.js": "/static/js/main.93aec8a4.js",
+    "static/media/cedar.png": "/static/media/cedar.40a8d64a2058947fe975.png",
+    "static/media/gidiInsurance .png": "/static/media/gidiInsurance .8d06ca7832ef6990f546.png",
+    "static/media/redCross.png": "/static/media/redCross.8d31b51888d572d532c0.png",
+    "static/media/node.png": "/static/media/node.0ea0607ae053de1e6536.png",
+    "static/media/Junity.png": "/static/media/Junity.cb881be844deefe77adf.png",
+    "static/media/sema.png": "/static/media/sema.170ca70d490bbbcec68d.png",
+    "static/media/mainCircle.jpg": "/static/media/mainCircle.7bdc6b5b983094fc92f8.jpg",
+    "static/media/shunia.png": "/static/media/shunia.143878b836097a25b3a2.png",
+    "static/media/Kazi.jpg": "/static/media/Kazi.e4eb5cd1283cf9970e29.jpg",
+    "static/media/react.png": "/static/media/react.23fd0138effeef952d73.png",
+    "static/media/img3.jpg": "/static/media/img3.caaedb4021acc06e533a.jpg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.323492a55f3421bf0688.png",
+    "static/media/kotlin.png": "/static/media/kotlin.e4a444ebb7383f39fcb7.png",
+    "static/media/c-plus-plus.png": "/static/media/c-plus-plus.bac6af85fe3ff5796f13.png",
+    "static/media/html.png": "/static/media/html.fd1fe32f1127d850fa39.png",
+    "static/media/js.jpg": "/static/media/js.d37684aea3d32640b359.jpg",
+    "static/media/kwamecv.docx": "/static/media/kwamecv.851ed35fe64753269d71.docx",
+    "static/media/css.png": "/static/media/css.cbea6150e2917bd6f0f3.png",
+    "static/media/tailwind.jpeg": "/static/media/tailwind.358eb35819a113cf5820.jpeg",
+    "index.html": "/index.html",
+    "main.69644a02.css.map": "/static/css/main.69644a02.css.map",
+    "main.93aec8a4.js.map": "/static/js/main.93aec8a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69644a02.css",
+    "static/js/main.93aec8a4.js"
+  ]
+}
