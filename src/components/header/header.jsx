@@ -1,4 +1,4 @@
-import cvUrl from "../props/docs/kwamecv.docx";
+import cvUrl from "../props/docs/Kwame'sCV.pdf";
 import "./header.css";
 
 function Header() {
