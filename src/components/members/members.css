@@ -123,10 +123,29 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
+  }
+  .members-container .member-2 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/Kazi.jpg);
+  }
+
+  .members-container .member-3 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/shunia.png);
+  }
+  .members-container .member-4 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/cedar.png);
+  }
+  .members-container .member-5 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/gidiInsurance\ .png);
+  }
+  .members-container .member-6 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/sema.png);
+  }
+  .members-container .member-7 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/redCross.png);
   }
 
   .members-container .member .member-info {
@@ -195,10 +214,29 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
+  }
+  .members-container .member-2 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/Kazi.jpg);
+  }
+
+  .members-container .member-3 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/shunia.png);
+  }
+  .members-container .member-4 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/cedar.png);
+  }
+  .members-container .member-5 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/gidiInsurance\ .png);
+  }
+  .members-container .member-6 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/sema.png);
+  }
+  .members-container .member-7 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/redCross.png);
   }
 
   .members-container .member .member-info {
@@ -267,10 +305,29 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
+  }
+  .members-container .member-2 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/Kazi.jpg);
+  }
+
+  .members-container .member-3 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/shunia.png);
+  }
+  .members-container .member-4 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/cedar.png);
+  }
+  .members-container .member-5 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/gidiInsurance\ .png);
+  }
+  .members-container .member-6 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/sema.png);
+  }
+  .members-container .member-7 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/redCross.png);
   }
 
   .members-container .member .member-info {
@@ -295,7 +352,7 @@
     letter-spacing: 2px;
   }
   .members-container .member .member-info .about {
-    margin-top: 10px;
+    margin-top: 25px;
     font-weight: 100;
     font-size: 16px;
   }
@@ -340,10 +397,30 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
+  }
+
+  .members-container .member-2 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/Kazi.jpg);
+  }
+
+  .members-container .member-3 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/shunia.png);
+  }
+  .members-container .member-4 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/cedar.png);
+  }
+  .members-container .member-5 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/gidiInsurance\ .png);
+  }
+  .members-container .member-6 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/sema.png);
+  }
+  .members-container .member-7 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/redCross.png);
   }
 
   .members-container .member .member-info {
@@ -368,15 +445,15 @@
     letter-spacing: 2px;
   }
   .members-container .member .member-info .about {
-    margin-top: 10px;
+    margin-top: 25px;
     font-weight: 100;
     font-size: 18px;
   }
   .members-container .member .member-info a.contact-member {
     background-color: var(--color-sec-light);
-    padding: 15px 25px;
+    padding: 5px 15px;
     font-size: 15px;
-    border-radius: 50px;
+    border-radius: 15px;
     transition: 0.1s ease;
     position: absolute;
     top: -55px;
@@ -413,10 +490,30 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
+  }
+
+  .members-container .member-2 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/Kazi.jpg);
+  }
+
+  .members-container .member-3 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/shunia.png);
+  }
+  .members-container .member-4 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/cedar.png);
+  }
+  .members-container .member-5 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/gidiInsurance\ .png);
+  }
+  .members-container .member-6 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/sema.png);
+  }
+  .members-container .member-7 .member-img {
+    background: rgb(5, 7, 37) url(../props/membersImage/redCross.png);
   }
 
   .members-container .member .member-info {
@@ -441,13 +538,13 @@
     letter-spacing: 2px;
   }
   .members-container .member .member-info .about {
-    margin-top: 10px;
+    margin-top: 25px;
     font-weight: 100;
     font-size: 16px;
   }
   .members-container .member .member-info a.contact-member {
     background-color: var(--color-sec-light);
-    padding: 15px 25px;
+    padding: 5px 15px;
     font-size: 15px;
     border-radius: 50px;
     transition: 0.1s ease;
