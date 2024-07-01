@@ -285,7 +285,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     min-height: 100vh;
-    margin-top: 10px;
+    margin-top: 10px 0;
   }
 
   .members-container .member {
@@ -302,8 +302,9 @@
     backdrop-filter: blur(20px);
   }
   .members-container .member .member-img {
-    height: 70px;
-    width: 70px;
+    display: none;
+    height: 50px;
+    width: 80px;
     border-radius: 50%;
     background: rgb(5, 7, 37) url(../props/membersImage/Junity.png);
     background-size: cover;
@@ -377,7 +378,7 @@
     align-items: flex-start;
     min-height: 100vh;
     margin-top: 10px;
-    padding: 10px;
+    padding: 10px 0;
   }
 
   .members-container .member {
@@ -394,6 +395,7 @@
     backdrop-filter: blur(20px);
   }
   .members-container .member .member-img {
+    display: none;
     height: 70px;
     width: 70px;
     border-radius: 50%;
@@ -470,7 +472,7 @@
     align-items: flex-start;
     min-height: 100vh;
     margin-top: 10px;
-    padding: 10px;
+    padding: 10px 0;
   }
 
   .members-container .member {
@@ -487,6 +489,7 @@
     backdrop-filter: blur(20px);
   }
   .members-container .member .member-img {
+    display: none;
     height: 70px;
     width: 70px;
     border-radius: 50%;

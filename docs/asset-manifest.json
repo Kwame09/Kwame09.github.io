@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f64cc15.css",
+    "main.css": "/static/css/main.4f56590f.css",
     "main.js": "/static/js/main.19ce34b4.js",
     "static/media/cedar.png": "/static/media/cedar.40a8d64a2058947fe975.png",
     "static/media/gidiInsurance .png": "/static/media/gidiInsurance .8d06ca7832ef6990f546.png",
@@ -21,11 +21,11 @@
     "static/media/css.png": "/static/media/css.cbea6150e2917bd6f0f3.png",
     "static/media/tailwind.jpeg": "/static/media/tailwind.358eb35819a113cf5820.jpeg",
     "index.html": "/index.html",
-    "main.4f64cc15.css.map": "/static/css/main.4f64cc15.css.map",
+    "main.4f56590f.css.map": "/static/css/main.4f56590f.css.map",
     "main.19ce34b4.js.map": "/static/js/main.19ce34b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f64cc15.css",
+    "static/css/main.4f56590f.css",
     "static/js/main.19ce34b4.js"
   ]
 }

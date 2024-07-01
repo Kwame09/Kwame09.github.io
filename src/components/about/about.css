@@ -3,7 +3,6 @@
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  min-height: 100vh;
   margin-top: 100px;
   padding: 50px;
   overflow-x: hidden;
@@ -16,7 +15,6 @@
     display: flex;
     justify-content:flex-start;
     align-items: flex-start;
-    min-height: 100vh;
     margin-top: 100px;
     padding: 15px;
     overflow-x: hidden;
@@ -30,7 +28,7 @@
     display: flex;
     justify-content:flex-start;
     align-items: flex-start;
-    min-height: 100vh;
+    min-height: auto;
     margin-top: 100px;
     padding: 20px;
     overflow-x: hidden;
@@ -44,7 +42,7 @@
     display: flex;
     justify-content:flex-start;
     align-items: flex-start;
-    min-height: 100vh;
+    min-height: auto;
     margin-top: 100px;
     padding: 30px 10px 0;
     overflow-x: hidden;
