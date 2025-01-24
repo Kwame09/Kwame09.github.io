@@ -1,4 +1,4 @@
-import cvUrl from "../props/docs/Kwame'sCV.pdf";
+import cvUrl from "../props/docs/Kwame'sResume.pdf";
 import "./header.css";
 
 function Header() {
@@ -11,7 +11,7 @@ function Header() {
         Kwame
       </h3>
       <h2>Front-End Web Developer</h2>
-      <a href={cvUrl} download="my-cv.pdf" className="download-button">
+      <a href={cvUrl} download="Kwame'sResume.pdf" className="download-button">
         Download CV
       </a>
     </div>

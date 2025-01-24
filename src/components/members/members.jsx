@@ -1,154 +1,105 @@
 import "./members.css";
+import BrotherImg from "../props/membersImage/myBrother.png";
+import JunityImg from "../props/membersImage/Junity.png";
+import Shoonihy from "../props/membersImage/shunia.png";
+import CedarImg from "../props/membersImage/cedar.png";
+import SemaImg from "../props/membersImage/sema.png";
 
 const Members = () => {
   return (
     <div id="members" className="container members-container">
       <h1 className="member-txt">My Recent Works</h1>
-      <div className="member member-1">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">JUNITY</h1>
-          <h4 className="about">
-            This systtem was developed with React,SCss and Apex chart for the
+      <div className="card">
+        <img src={BrotherImg} alt="" className="card-image" />
+        <div className="card-content">
+          <h2 className="card-title">MY-BROTHER INFO SITE</h2>
+          <p className="card-description">
+            This is a template of an informational website for the latest and
+            popular supermarket in Takoradi. The website was developed in 2025
+            with React, Tailwind, JavaScript, and Shadcn UI components.
+          </p>
+          <button className="card-button">
+            <a
+              href="https://relaxed-tarsier-4d7ae6.netlify.app/"
+              target={"blank"}
+            >
+              Learn More
+            </a>
+          </button>
+        </div>
+      </div>
+
+      <div className="card">
+        <img src={JunityImg} alt="" className="card-image" />
+        <div className="card-content">
+          <h2 className="card-title">JUNITY</h2>
+          <p className="card-description">
+            This system was developed with React, SCSS, and Apex chart for the
             frontend. The Student Mentoring and Opportunity Matching App is a
             powerful platform designed to connect students with mentors and
             match them with relevant educational and career opportunities. This
             innovative app aims to bridge the gap between students and
             experienced professionals, enabling mentorship and fostering
             personal and professional growth.
-          </h4>
-
-          <a
-            href="https://joinjunity.com"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
+          </p>
+          <button className="card-button">
+            <a href="https://www.joinjunity.com/" target={"blank"}>
+              Learn More
+            </a>
+          </button>
         </div>
       </div>
 
-      <div className="member member-2">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">KAZE 360</h1>
-          <h4 className="about">
-            This ERP system was desiugReact, Typescript,Tailwind and Antdesign
-            for the frontend.The App is a web-based application designed to
-            streamline and automate various processes within an organization. It
-            serves as a centralized platform for managing employee information,
-            recruitment,payroll, loan system, job posting, company events,
-            performance evaluation, and other essential tasks.
-          </h4>
-          <a
-            href="//app.kazi-360.com"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
+      <div className="card">
+        <img src={Shoonihy} alt="" className="card-image" />
+        <div className="card-content">
+          <h2 className="card-title">SHOONIYH</h2>
+          <p className="card-description">
+            The website for an auto-fill extension system for browsers was built
+            with React, CSS, and Bootstrap for the frontend.
+          </p>
+          <button className="card-button">
+            <a href="https://shooniyh.com" target={"blank"}>
+              Learn More
+            </a>
+          </button>
         </div>
       </div>
 
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">SHOONIYH</h1>
-          <h4 className="about">
-            The website for an auto-fill extension system for browser and the
-            website for this system was built with React, css and bootstrap for
-            the frontend.
-          </h4>
-          <a
-            href="https://shooniyh.com"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
+      <div className="card">
+        <img src={CedarImg} alt="" className="card-image" />
+        <div className="card-content">
+          <h2 className="card-title">CEDAR</h2>
+          <p className="card-description">
+            A company website for showcasing the services provided by the
+            company and other good information about the company. Built with
+            React, Tailwind CSS, and FontAwesome for the frontend.
+          </p>
+          <button className="card-button">
+            <a href="https://www.cedarinspectionventures.com/" target={"blank"}>
+              Learn More
+            </a>
+          </button>
         </div>
       </div>
 
-      <div className="member member-4">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">CEDAR</h1>
-          <h4 className="about">
-            A Company website for showcasing the services provided by the
-            company and other good information about the company. React,
-            tailwind css and fontawsome for the fronted.
-          </h4>
-          <a
-            href="https://www.cedarinspectionventures.com"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
-        </div>
-      </div>
-      <div className="member member-5">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">GIDI-PROPERTIES</h1>
-          <h4 className="about">
-            A real estate system built with PHP, HTML, Javascript, Bootstrap. It
-            has a features which enebles a person to upload properties for
-            advertisement, payment shystem and features which allows agents and
-            companies to transact safely.
-          </h4>
-          <a
-            href="https://gidiproperty.com/"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
-        </div>
-      </div>
-      <div className="member member-6">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">SEMA</h1>
-          <h4 className="about">
-            This project was developed with React, Redux, Tailwind, Scss for the
-            fronted. It is a website for managing polls, forums, discussions and
-            blogs with support for English and Swahili languages. It included
-            three user types; Admin interface, Content Creator interface and
-            Guest interface. It also includes in-app chat and granular
-            permissions configuration.
-          </h4>
-          <a
-            href="https://sema.africanchildprojects.org"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
-        </div>
-      </div>
-      <div className="member member-7">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">GHANA REDCROSS</h1>
-          <h4 className="about">
-            A portal for the Redross of Ghana which was was with HTML, CSS, and
-            Javascript for the frotend.
-          </h4>
-          <a
-            href="https://redcrossgh.org/"
-            target="_blank"
-            className="contact-member"
-            rel="noreferrer noopener"
-          >
-            <span>Link</span>
-          </a>
+      <div className="card">
+        <img src={SemaImg} alt="" className="card-image" />
+        <div className="card-content">
+          <h2 className="card-title">SEMA</h2>
+          <p className="card-description">
+            This project was developed with React, Redux, Tailwind, and SCSS for
+            the frontend. It is a website for managing polls, forums,
+            discussions, and blogs with support for English and Swahili
+            languages. It includes three user types: Admin interface, Content
+            Creator interface, and Guest interface. It also includes in-app chat
+            and granular permissions configuration.
+          </p>
+          <button className="card-button">
+            <a href="https://sema.africanchildprojects.org" target={"blank"}>
+              Learn More
+            </a>
+          </button>
         </div>
       </div>
     </div>
