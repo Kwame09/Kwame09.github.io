@@ -16,7 +16,7 @@ const Members = () => {
           <p className="card-description">
             This is a template of an informational website for the latest and
             popular supermarket in Takoradi. The website was developed in 2025
-            with React, Tailwind, JavaScript, and Shadcn UI components.
+            with React, Tailwind, JavaScript,Shadcn UI components and node.js.
           </p>
           <button className="card-button">
             <a
@@ -34,13 +34,14 @@ const Members = () => {
         <div className="card-content">
           <h2 className="card-title">JUNITY</h2>
           <p className="card-description">
-            This system was developed with React, SCSS, and Apex chart for the
-            frontend. The Student Mentoring and Opportunity Matching App is a
-            powerful platform designed to connect students with mentors and
-            match them with relevant educational and career opportunities. This
-            innovative app aims to bridge the gap between students and
-            experienced professionals, enabling mentorship and fostering
-            personal and professional growth.
+            This system was developed using React, SCSS, and ApexCharts for the
+            frontend, and Node.js and Express for the backend. The Student
+            Mentoring and Opportunity Matching App is a powerful platform
+            designed to connect students with mentors and match them with
+            relevant educational and career opportunities. This innovative app
+            aims to bridge the gap between students and experienced
+            professionals, enabling mentorship and fostering personal and
+            professional growth.
           </p>
           <button className="card-button">
             <a href="https://www.joinjunity.com/" target={"blank"}>
@@ -55,8 +56,9 @@ const Members = () => {
         <div className="card-content">
           <h2 className="card-title">SHOONIYH</h2>
           <p className="card-description">
-            The website for an auto-fill extension system for browsers was built
-            with React, CSS, and Bootstrap for the frontend.
+            The website for an auto-fill extension system for browsers was
+            developed using React, CSS, and Bootstrap for the frontend, and
+            Django for the backend.
           </p>
           <button className="card-button">
             <a href="https://shooniyh.com" target={"blank"}>
@@ -88,12 +90,12 @@ const Members = () => {
         <div className="card-content">
           <h2 className="card-title">SEMA</h2>
           <p className="card-description">
-            This project was developed with React, Redux, Tailwind, and SCSS for
-            the frontend. It is a website for managing polls, forums,
-            discussions, and blogs with support for English and Swahili
-            languages. It includes three user types: Admin interface, Content
-            Creator interface, and Guest interface. It also includes in-app chat
-            and granular permissions configuration.
+            This project was developed using React, Redux, Tailwind, SCSS,
+            Django.It is a website for managing polls, forums, discussions, and
+            blogs, with support for English and Swahili languages. The platform
+            includes three user interfaces: Admin, Content Creator, and Guest.
+            Key features include in-app chat and granular permissions
+            configuration.
           </p>
           <button className="card-button">
             <a href="https://sema.africanchildprojects.org" target={"blank"}>

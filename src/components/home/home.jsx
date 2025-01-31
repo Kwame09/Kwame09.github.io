@@ -23,16 +23,16 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          I am a self-taught front-end developer from living in the western part
-          of Ghana west Africa with a passion for crafting beautiful and
-          functional web experiences. For the past 2 years, I've been on a
-          self-directed journey into the world of front-end development.
+          I am a self-taught full stack  developer living in the western part
+          of Ghana with a passion for crafting beautiful and
+          functional web experiences. For the past 3 years, I've been on a
+          self-directed journey into the world of web development.
           <br />
           Fueled by curiosity and a love for problem-solving, I dove headfirst
-          into learning HTML, CSS, and JavaScript. Online resources, tutorials,
+          into learning HTML, CSS, JavaScript and node.js. Online resources, tutorials,
           and personal projects became my classroom, and the web became my
-          playground. Today, I possess a strong foundation in front-end
-          technologies and a knack for building user-friendly and responsive
+          playground. Today, I possess a strong foundation in both front-end and backend
+          technologies and the williness for building user-friendly and responsive
           websites that come alive across all devices.
           <br />
           I'm constantly pushing myself to stay up-to-date with the

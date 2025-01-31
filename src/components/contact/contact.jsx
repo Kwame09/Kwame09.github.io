@@ -30,7 +30,7 @@ function Contact() {
         >
           <AiOutlineWhatsApp className="icon" />
           <h2>
-            whatsapp <span>+233 20 436 2233</span>
+            whatsapp <span>+233 020 436 2233</span>
           </h2>
         </a>
 
